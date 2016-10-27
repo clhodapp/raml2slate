@@ -38,7 +38,7 @@
     "metalsmith-metallic": "^2.0.1",
     "metalsmith-stylus": "^2.0.0",
     "mkdirp": "^0.5.1",
-    "raml2md": "^4.0.0",
+    "raml2md": "4.0.0-beta1",
     "tmp": "^0.0.28"
   },
   "devDependencies": {
